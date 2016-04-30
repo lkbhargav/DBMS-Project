@@ -1,0 +1,14 @@
+... creating User View 6: Shipping Label for Chanakya(Customer ID: 1009)...
+
+Ship ID Ship Company Name    Ship Speed   Tracking Num                                                                                                                                                  
+------- -------------------- ------------ ------------                                                                                                                                                  
+      2 Fedex                Economy      FED09EX73912                                                                                                                                                  
+
+
+Invoice ID Customer ID Customer Name  Customer Address Cus Phone                                                                                                                                        
+---------- ----------- -------------- ---------------- ----------                                                                                                                                       
+      9932        1009 Chanakya       1009,indian Aven 2030071009                                                                                                                                       
+                                      ue,shelton,ct 06                                                                                                                                                  
+                                      608                                                                                                                                                               
+                                                                                                                                                                                                        
+

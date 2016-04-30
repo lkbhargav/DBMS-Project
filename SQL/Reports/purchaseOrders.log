@@ -1,0 +1,24 @@
+... creating User View 5: Purchase Orders for OM Electronics(Vendor ID: 4150)...
+
+Vendor ID Vendor Name     Vendor Address       Contact No                                                                                                                                               
+--------- --------------- -------------------- ----------                                                                                                                                               
+     4150 OM Electronics  #182, Panchkarna Str 9738110333                                                                                                                                               
+                          eet, Karool bagh, De                                                                                                                                                          
+                          lhi - 110005                                                                                                                                                                  
+                                                                                                                                                                                                        
+
+
+Product ID Product Name Product Description    Quantity      Cost/piece      Total Cost                                                                                                                 
+---------- ------------ ---------------------- -------- --------------- ---------------                                                                                                                 
+      1465 IC 7406      OR gate Integrated Cir       95           $6.95         $660.25                                                                                                                 
+                        cuit                                                                                                                                                                            
+                                                                                                                                                                                                        
+      1495 IC 7408      AND gate Integrated Ci       80           $7.00         $560.00                                                                                                                 
+                        rcuit                                                                                                                                                                           
+                                                                                                                                                                                                        
+
+
+Total Purchases                                                                                                                                                                                         
+---------------                                                                                                                                                                                         
+      $1,220.25                                                                                                                                                                                         
+

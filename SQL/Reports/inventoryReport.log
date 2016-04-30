@@ -1,0 +1,26 @@
+... creating User View 7: Inventory Report for Category 2...
+
+Category ID Category Name                                                                                                                                                                               
+----------- --------------------                                                                                                                                                                        
+          2 Analog Components                                                                                                                                                                           
+
+
+Product ID Product Name         Product Description  Quantity cost/piece Expected Income                                                                                                                
+---------- -------------------- -------------------- -------- ---------- ---------------                                                                                                                
+      1297 Transistors          Decision Making Anal      150      $2.25         $337.50                                                                                                                
+                                og Component                                                                                                                                                            
+                                                                                                                                                                                                        
+      1298 Capacitors           Analog component use      300      $1.50         $450.00                                                                                                                
+                                d to build circuits(                                                                                                                                                    
+                                Charge Holding)                                                                                                                                                         
+                                                                                                                                                                                                        
+      1299 Resistors            Analog component use      225      $1.00         $225.00                                                                                                                
+                                d to build circuits(                                                                                                                                                    
+                                Charge Resisting)                                                                                                                                                       
+                                                                                                                                                                                                        
+
+
+   Total Assets                                                                                                                                                                                         
+---------------                                                                                                                                                                                         
+      $1,012.50                                                                                                                                                                                         
+

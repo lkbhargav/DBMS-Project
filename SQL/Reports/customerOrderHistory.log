@@ -1,0 +1,20 @@
+... creating User View 4: Customer Order History for Chanakya(CustomerID: 1009)...
+
+Customer ID Customer Name   Customer Address     Contact No                                                                                                                                             
+----------- --------------- -------------------- ----------                                                                                                                                             
+       1009 Chanakya        1009,indian Avenue,s 2030071009                                                                                                                                             
+                            helton,ct 06608                                                                                                                                                             
+                                                                                                                                                                                                        
+
+
+Invoice Number Invoice Date Shipped Date Pay Method     Pay Status     Ship Speed     Product Name   Quantity      Total Cost                                                                           
+-------------- ------------ ------------ -------------- -------------- -------------- -------------- -------- ---------------                                                                           
+          9932 15-NOV-12    18-NOV-12    COD            PAID           Economy        IC 555                5          $36.00                                                                           
+          9932 15-NOV-12    18-NOV-12    COD            PAID           Economy        Raspberry Pi          1          $35.72                                                                           
+          9932 15-NOV-12    18-NOV-12    COD            PAID           Economy        Wires                10           $6.20                                                                           
+
+
+    Grand Total                                                                                                                                                                                         
+---------------                                                                                                                                                                                         
+         $77.92                                                                                                                                                                                         
+

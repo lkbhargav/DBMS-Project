@@ -1,0 +1,16 @@
+... creating User View 1: Employee Payslip for Rohan Bhadru...
+
+Depatment No Department Name                                                                                                                                                                            
+------------ --------------------                                                                                                                                                                       
+           1 Finance Department                                                                                                                                                                         
+
+
+Pay Slip ID Category                                                                                                                                                                                    
+----------- ---------                                                                                                                                                                                   
+          2 Manager                                                                                                                                                                                     
+
+
+Employee ID First Name   Last Name    Designation          Date of Birt Date of Join          Salary      Allowances                                                                                    
+----------- ------------ ------------ -------------------- ------------ ------------ --------------- ---------------                                                                                    
+       1267 Rohan        Bhadru       Finance Manager      04-DEC-91    12-APR-13        $250,000.00      $35,000.00                                                                                    
+

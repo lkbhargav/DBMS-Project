@@ -1,0 +1,28 @@
+... creating User View 3: Customer MemberShip Plan Report for Plan ID 3...
+
+Plan ID Plan Name       Plan Description                                                                                                                                                                
+------- --------------- --------------------                                                                                                                                                            
+      3 Platinum        Deluxe plan: Free sh                                                                                                                                                            
+                        ipping above 25$ Pur                                                                                                                                                            
+                        chase for 1 year                                                                                                                                                                
+                                                                                                                                                                                                        
+
+
+Customer ID Customer Name        Customer Address     Plan Expiry                                                                                                                                       
+----------- -------------------- -------------------- ------------                                                                                                                                      
+       1001 mithun               1001,Washington Aven 17-OCT-16                                                                                                                                         
+                                 ue,darien,ct 06608                                                                                                                                                     
+                                                                                                                                                                                                        
+       1003 Chandrahaas          1003,staten Avenue,N 22-DEC-18                                                                                                                                         
+                                 ewHeaven,ct 06608                                                                                                                                                      
+                                                                                                                                                                                                        
+       1004 kiran                1004,keys Avenue,str 21-AUG-15                                                                                                                                         
+                                 atford,ct 06608                                                                                                                                                        
+                                                                                                                                                                                                        
+       1009 Chanakya             1009,indian Avenue,s 13-JAN-17                                                                                                                                         
+                                 helton,ct 06608                                                                                                                                                        
+
+Customer ID Customer Name        Customer Address     Plan Expiry                                                                                                                                       
+----------- -------------------- -------------------- ------------                                                                                                                                      
+                                                                                                                                                                                                        
+

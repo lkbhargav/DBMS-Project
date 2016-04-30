@@ -1,0 +1,32 @@
+... creating User View 2: Invoice for Ramakrishna (Customer ID: 1007)...
+
+Invoice ID Invoice Date Shipped Date Pay Method   Pay Status   Shipping Speed                                                                                                                           
+---------- ------------ ------------ ------------ ------------ --------------------                                                                                                                     
+      4125 19-MAY-09    24-MAY-09    COD          Pending      Standard                                                                                                                                 
+
+
+Customer ID Customer Name   Customer Address     Contact Number                                                                                                                                         
+----------- --------------- -------------------- ---------------                                                                                                                                        
+       1007 ramakrishna     1007,broadway Avenue 2030071007                                                                                                                                             
+                            ,orange,ct 06608                                                                                                                                                            
+                                                                                                                                                                                                        
+
+
+Product ID Product Name         Product Description  Quantity Total Cost Total Cost                                                                                                                     
+---------- -------------------- -------------------- -------- ---------- ----------                                                                                                                     
+      1911 Wires                Used to make circuit       20       $.62     $12.40                                                                                                                     
+                                 connections                                                                                                                                                            
+                                                                                                                                                                                                        
+      1297 Transistors          Decision Making Anal       10      $2.25     $22.50                                                                                                                     
+                                og Component                                                                                                                                                            
+                                                                                                                                                                                                        
+      1412 Arduino Mega         Mini Computer used f        1     $53.75     $53.75                                                                                                                     
+                                or development purpo                                                                                                                                                    
+                                ses better than UNO                                                                                                                                                     
+                                                                                                                                                                                                        
+
+
+Grand Total                                                                                                                                                                                             
+-----------                                                                                                                                                                                             
+     $88.65                                                                                                                                                                                             
+
